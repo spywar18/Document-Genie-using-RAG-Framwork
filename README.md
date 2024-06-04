@@ -29,8 +29,8 @@ pip install -r requirements.txt
 
 1. **Start the Application**: Launch the Streamlit application by running the command:
     ```bash
-    streamlit run <path_to_script.py>
-    ```
+    AIzaSyDmpcwKViZzzMeqrpBxgnU8kszKs-kZf0k
+    ``` 
     Replace `<path_to_script.py>` with the path to the script file.
 
 2. **Enter Your Google API Key**: Securely enter your Google API key when prompted. This key enables the application to access Google's Generative AI models.
